@@ -1,10 +1,10 @@
-<!-- # BOB - Bank Bot -->
+<!-- # Dev - Bank Bot -->
 <h1 align="center">BOB - Bank Bot</h1>
 
   <p align="center">
     Today’s customers are extremely demanding, expecting fast, inspiring and relevant banking experiences in every moment of the banking journey. Merchandizing is the heart for bankers succeeding in delivering relevant customer experience, which is a continuous perpetual challenge, highly correlated to optimizing conversion, sales and increased revenue.
  <br>
- BOB bot is an Enterprise AI Chatbot, a conversation agent that manages the on field staff (e-commerce merchandiser or vendors) of multinational companies operating from different locations and retail stores.
+ Dev bot is an Enterprise AI Chatbot, a conversation agent that manages the on field staff (e-commerce merchandiser or vendors) of multinational companies operating from different locations and retail stores.
     <br />
     <a href="https://github.com/mayank-cse/BOB-Bank-Bot"><strong>Explore the docs »</strong></a>
     <br />
@@ -53,17 +53,22 @@
 
 ![App Screenshot](https://github.com/mayank-cse/EcommerceMerchandizerBot/blob/main/Assets/images/Bot%20Features%20-%20Merchandisers%20Daily%20Task.png)
 
-This chatbot is designed for the merchandisers to :
-* Mark Attendance with current GPS location update. (Thus, the admin can keep a check on their geographic coordinates)
-* Submit Display Product Status with uploaded images(photographs).
+The virtual financial assistant Dev is designed to help customers more easily manage their money. Within the interactive interface, Dev provides reward and account balances, spending summaries, refund confirmations and credit scores. He can also identify duplicate charges and send bill reminders. 
+
+Dev is designed for the merchandisers to :
+* Help customers more easily manage their money.
+* Check on a loan status.
+* Facilitating payments with mail alert. 
+* Getting instant answers to FAQs.
 * Share Market Intelligence / Information.
 * Report Daily Retail Counter Sell Out.
 
 Key Features of the Product :
 * Instant Response with automatic time-to-time pop-ups (alerts).
-* Assist managing team with easy to keep track functionality.
-* Works as stress buster with clear and timely reporting.
-* Automating Business Operations for visible efficiency gains due to fast communication.
+* Proactively reaches out if a bill is higher than normal.
+* Suspects fraud and sends mail alert.
+* Provides reward and account balances, spending summaries, refund confirmations and credit scores. 
+<!-- * Automating Business Operations for visible efficiency gains due to fast communication. -->
 
 <p align="right">(<a href="#ecommercemerchandizerbot">back to top</a>)</p>
 

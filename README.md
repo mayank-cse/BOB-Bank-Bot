@@ -80,7 +80,7 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 - Handle user interruptions for such things as `Help` or `Cancel`
 - Prompt for and validate requests for information from the user
 
-<p align="right">(<a href="#ecommercemerchandizerbot">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Prerequisites
 
@@ -113,7 +113,7 @@ Once you created the LUIS model, update `appsettings.json` with your `LuisAppId`
   "LuisAPIKey": "Your LUIS Subscription key here",
   "LuisAPIHostName": "Your LUIS App region here (i.e: westus.api.cognitive.microsoft.com)"
 ```
-<p align="right">(<a href="#BOB-Bank-Bot">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## To try this sample
 
@@ -153,17 +153,17 @@ Once you created the LUIS model, update `appsettings.json` with your `LuisAppId`
 - File -> Open Bot
 - Enter a Bot URL of `http://localhost:3978/api/messages
 
-<p align="right">(<a href="#BOB-Bank-Bot">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Deploy the bot to Azure
 
 To learn more about deploying a bot to Azure, see [Deploy your bot to Azure](https://aka.ms/azuredeployment) for a complete list of deployment instructions.
-<p align="right">(<a href="BOB-Bank-Bot">back to top</a>)</p>
+<p align="right">(<a href="readme-top">back to top</a>)</p>
 
 ## Presentation
 <!-- [Presentation](https://docs.google.com/presentation/d/15G2gJ_l0Yf6BbbnAvDusuyo-6oca0zkx/edit?usp=sharing&ouid=110656000818841743215&rtpof=true&sd=true) -->
 [GoToMarket Presentation.pptx](https://github.com/mayank-cse/EcommerceMerchandizerBot/files/9400239/GoToMarket.Presentation.pptx)
-<p align="right">(<a href="#BOB-Bank-Bot">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## Flow Chart
@@ -184,7 +184,7 @@ Mayank Gupta - [@MayankGuptaCse1](https://twitter.com/MayankGuptacse1) - mayank.
 
 Project Link: [https://github.com/mayank-cse/EcommerceMerchandizerBot](https://github.com/mayank-cse/EcommerceMerchandizerBot)
 
-<p align="right">(<a href="#ecommercemerchandizerbot">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## Further reading

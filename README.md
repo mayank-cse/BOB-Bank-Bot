@@ -1,6 +1,6 @@
 <!-- #Dev - Bank Bot -->
-<h1 align="center">Dev - Bank Bot</h1>
 <a name="readme-top"></a>
+<h1 align="center">Dev - Bank Bot</h1>
   <p align="center">
     Today’s customers are extremely demanding, expecting fast, inspiring and relevant banking experiences in every moment of the banking journey. Merchandizing is the heart for bankers succeeding in delivering relevant customer experience, which is a continuous perpetual challenge, highly correlated to optimizing conversion, sales and increased revenue.
  <br>
@@ -117,11 +117,11 @@ Once you created the LUIS model, update `appsettings.json` with your `LuisAppId`
 
 ## To try this sample
 
-- In a terminal, navigate to `EcommerceAdminBot`
+- In a terminal, navigate to `Dev-BankBot`
 
     ```bash
     # change into project folder
-    cd EcommerceAdminBot
+    cd Dev-BankBot
     ```
 
 - Run the bot from a terminal or from Visual Studio, choose option A or B.
@@ -137,8 +137,8 @@ Once you created the LUIS model, update `appsettings.json` with your `LuisAppId`
 
   - Launch Visual Studio
   - File -> Open -> Project/Solution
-  - Navigate to `EcommerceAdminBot` folder
-  - Select `EcommerceAdminBot.csproj` file
+  - Navigate to `Dev-BankBot` folder
+  - Select `Dev-BankBot.csproj` file
   - Press `F5` to run the project
 
 ## Testing the bot using Bot Framework Emulator

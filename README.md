@@ -68,7 +68,7 @@ Key Features of the Product :
 * Provides reward and account balances, spending summaries, refund confirmations and credit scores. 
 <!-- * Automating Business Operations for visible efficiency gains due to fast communication. -->
 
-<p align="right">(<a href="#Dev-Bank-Bot">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Built With
 Bot Framework v4 core bot sample.

@@ -1,5 +1,5 @@
-<!-- # Dev - Bank Bot -->
-<h1 align="center">BOB - Bank Bot</h1>
+<!-- #Dev - Bank Bot -->
+<h1 align="center">Dev - Bank Bot</h1>
 
   <p align="center">
     Today’s customers are extremely demanding, expecting fast, inspiring and relevant banking experiences in every moment of the banking journey. Merchandizing is the heart for bankers succeeding in delivering relevant customer experience, which is a continuous perpetual challenge, highly correlated to optimizing conversion, sales and increased revenue.
@@ -55,7 +55,7 @@
 
 The virtual financial assistant Dev is designed to help customers more easily manage their money. Within the interactive interface, Dev provides reward and account balances, spending summaries, refund confirmations and credit scores. He can also identify duplicate charges and send bill reminders. 
 
-Dev is designed for the merchandisers to :
+Dev is designed for the customers to :
 * Help customers more easily manage their money.
 * Check on a loan status.
 * Facilitating payments with mail alert. 
@@ -68,7 +68,7 @@ Key Features of the Product :
 * Provides reward and account balances, spending summaries, refund confirmations and credit scores. 
 <!-- * Automating Business Operations for visible efficiency gains due to fast communication. -->
 
-<p align="right">(<a href="#ecommercemerchandizerbot">back to top</a>)</p>
+<p align="right">(<a href="#Dev-Bank-Bot">back to top</a>)</p>
 
 ## Built With
 Bot Framework v4 core bot sample.
@@ -113,7 +113,7 @@ Once you created the LUIS model, update `appsettings.json` with your `LuisAppId`
   "LuisAPIKey": "Your LUIS Subscription key here",
   "LuisAPIHostName": "Your LUIS App region here (i.e: westus.api.cognitive.microsoft.com)"
 ```
-<p align="right">(<a href="#ecommercemerchandizerbot">back to top</a>)</p>
+<p align="right">(<a href="#BOB-Bank-Bot">back to top</a>)</p>
 
 ## To try this sample
 
@@ -153,17 +153,17 @@ Once you created the LUIS model, update `appsettings.json` with your `LuisAppId`
 - File -> Open Bot
 - Enter a Bot URL of `http://localhost:3978/api/messages
 
-<p align="right">(<a href="#ecommercemerchandizerbot">back to top</a>)</p>
+<p align="right">(<a href="#BOB-Bank-Bot">back to top</a>)</p>
 
 ## Deploy the bot to Azure
 
 To learn more about deploying a bot to Azure, see [Deploy your bot to Azure](https://aka.ms/azuredeployment) for a complete list of deployment instructions.
-<p align="right">(<a href="#ecommercemerchandizerbot">back to top</a>)</p>
+<p align="right">(<a href="BOB-Bank-Bot">back to top</a>)</p>
 
 ## Presentation
 <!-- [Presentation](https://docs.google.com/presentation/d/15G2gJ_l0Yf6BbbnAvDusuyo-6oca0zkx/edit?usp=sharing&ouid=110656000818841743215&rtpof=true&sd=true) -->
 [GoToMarket Presentation.pptx](https://github.com/mayank-cse/EcommerceMerchandizerBot/files/9400239/GoToMarket.Presentation.pptx)
-<p align="right">(<a href="#ecommercemerchandizerbot">back to top</a>)</p>
+<p align="right">(<a href="#BOB-Bank-Bot">back to top</a>)</p>
 
 
 ## Flow Chart

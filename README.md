@@ -6,12 +6,12 @@
  <br>
  BOB bot is an Enterprise AI Chatbot, a conversation agent that manages the on field staff (e-commerce merchandiser or vendors) of multinational companies operating from different locations and retail stores.
     <br />
-    <a href="https://github.com/mayank-cse/EcommerceMerchandizerBot"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/mayank-cse/BOB-Bank-Bot"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://www.youtube.com/watch?v=7rRr-QrRWckhttps">View Demo</a>
     ·
-    <a href="https://github.com/mayank-cse/EcommerceMerchandizerBot/issues">Report Bug</a>
+    <a href="https://github.com/mayank-cse/BOB-Bank-Bot/issues">Report Bug</a>
     ·
     <a href="https://docs.google.com/presentation/d/15G2gJ_l0Yf6BbbnAvDusuyo-6oca0zkx/edit?usp=sharing&ouid=110656000818841743215&rtpof=true&sd=true">View Presentation</a>
   </p>

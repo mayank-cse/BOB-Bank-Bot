@@ -60,8 +60,6 @@ Dev is designed for the merchandisers to :
 * Check on a loan status.
 * Facilitating payments with mail alert. 
 * Getting instant answers to FAQs.
-* Share Market Intelligence / Information.
-* Report Daily Retail Counter Sell Out.
 
 Key Features of the Product :
 * Instant Response with automatic time-to-time pop-ups (alerts).

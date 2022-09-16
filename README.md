@@ -4,7 +4,7 @@
   <p align="center">
     Today’s customers are extremely demanding, expecting fast, inspiring and relevant banking experiences in every moment of the banking journey. Merchandizing is the heart for bankers succeeding in delivering relevant customer experience, which is a continuous perpetual challenge, highly correlated to optimizing conversion, sales and increased revenue.
  <br>
- Dev bot is an Enterprise AI Chatbot, a conversation agent that manages the on field staff (e-commerce merchandiser or vendors) of multinational companies operating from different locations and retail stores.
+ The virtual financial assistant Dev is designed to help customers more easily manage their money. Within the interactive interface, Dev provides reward and account balances, spending summaries, refund confirmations and credit scores. He can also identify duplicate charges and send bill reminders.
     <br />
     <a href="https://github.com/mayank-cse/BOB-Bank-Bot"><strong>Explore the docs »</strong></a>
     <br />
